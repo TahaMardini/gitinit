@@ -1,0 +1,14 @@
+C:\TaskManagementMigration\Solution1\ClassLibrary1\bin\Debug\net8.0\AccessLayerDLL.deps.json
+C:\TaskManagementMigration\Solution1\ClassLibrary1\bin\Debug\net8.0\AccessLayerDLL.runtimeconfig.json
+C:\TaskManagementMigration\Solution1\ClassLibrary1\bin\Debug\net8.0\AccessLayerDLL.dll
+C:\TaskManagementMigration\Solution1\ClassLibrary1\bin\Debug\net8.0\AccessLayerDLL.pdb
+C:\TaskManagementMigration\Solution1\ClassLibrary1\obj\Debug\net8.0\AccessLayerDLL.csproj.AssemblyReference.cache
+C:\TaskManagementMigration\Solution1\ClassLibrary1\obj\Debug\net8.0\AccessLayerDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaskManagementMigration\Solution1\ClassLibrary1\obj\Debug\net8.0\AccessLayerDLL.AssemblyInfoInputs.cache
+C:\TaskManagementMigration\Solution1\ClassLibrary1\obj\Debug\net8.0\AccessLayerDLL.AssemblyInfo.cs
+C:\TaskManagementMigration\Solution1\ClassLibrary1\obj\Debug\net8.0\AccessLayerDLL.csproj.CoreCompileInputs.cache
+C:\TaskManagementMigration\Solution1\ClassLibrary1\obj\Debug\net8.0\AccessLayerDLL.dll
+C:\TaskManagementMigration\Solution1\ClassLibrary1\obj\Debug\net8.0\refint\AccessLayerDLL.dll
+C:\TaskManagementMigration\Solution1\ClassLibrary1\obj\Debug\net8.0\AccessLayerDLL.pdb
+C:\TaskManagementMigration\Solution1\ClassLibrary1\obj\Debug\net8.0\AccessLayerDLL.genruntimeconfig.cache
+C:\TaskManagementMigration\Solution1\ClassLibrary1\obj\Debug\net8.0\ref\AccessLayerDLL.dll

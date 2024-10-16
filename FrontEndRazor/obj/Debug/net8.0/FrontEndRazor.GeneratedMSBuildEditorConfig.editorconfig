@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FrontEndRazor
+build_property.RootNamespace = FrontEndRazor
+build_property.ProjectDir = C:\TaskManagementMigration\Solution1\FrontEndRazor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\TaskManagementMigration\Solution1\FrontEndRazor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/GroupTasks/CreateTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvdXBUYXNrc1xDcmVhdGVUYXNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/GroupTasks/GroupTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvdXBUYXNrc1xHcm91cFRhc2tzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/GroupTasks/UpdateTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvdXBUYXNrc1xVcGRhdGVUYXNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/GroupTasks/ViewTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvdXBUYXNrc1xWaWV3VGFzay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/TemplateGroups/CreateTemplateGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVHcm91cHNcQ3JlYXRlVGVtcGxhdGVHcm91cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/TemplateGroups/TemplateGroups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVHcm91cHNcVGVtcGxhdGVHcm91cHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/TemplateGroups/UpdateGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVHcm91cHNcVXBkYXRlR3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/TemplateGroups/ViewGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVHcm91cHNcVmlld0dyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Templates/CreateTaskListTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXENyZWF0ZVRhc2tMaXN0VGVtcGxhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Templates/TaskListTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXFRhc2tMaXN0VGVtcGxhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Templates/UpdateTaskListTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXFVwZGF0ZVRhc2tMaXN0VGVtcGxhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Templates/ViewTaskListTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVzXFZpZXdUYXNrTGlzdFRlbXBsYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Users/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQWRkVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Users/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Users/UpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXBkYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Users/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TaskManagementMigration/Solution1/FrontEndRazor/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-waagze377a

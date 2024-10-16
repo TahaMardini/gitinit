@@ -1,0 +1,17 @@
+C:\TaskManagementMigration\Solution1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\TaskManagementMigration\Solution1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.runtimeconfig.json
+C:\TaskManagementMigration\Solution1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\TaskManagementMigration\Solution1\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\TaskManagementMigration\Solution1\BusinessLayer\bin\Debug\net8.0\AccessLayerDLL.dll
+C:\TaskManagementMigration\Solution1\BusinessLayer\bin\Debug\net8.0\AccessLayerDLL.pdb
+C:\TaskManagementMigration\Solution1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\TaskManagementMigration\Solution1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaskManagementMigration\Solution1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\TaskManagementMigration\Solution1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\TaskManagementMigration\Solution1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\TaskManagementMigration\Solution1\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\TaskManagementMigration\Solution1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\TaskManagementMigration\Solution1\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\TaskManagementMigration\Solution1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\TaskManagementMigration\Solution1\BusinessLayer\obj\Debug\net8.0\BusinessLayer.genruntimeconfig.cache
+C:\TaskManagementMigration\Solution1\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

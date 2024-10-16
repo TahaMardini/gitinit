@@ -1,0 +1,64 @@
+﻿@page
+@model FrontEndRazor.Pages.Users.LoginModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-4">
+            <h2 class="text-center mb-4">Login</h2>
+
+            @if (!string.IsNullOrEmpty(Model.Message))
+            {
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    @Model.Message
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            }
+
+            <form method="post" class="needs-validation" novalidate>
+                <div class="form-group mb-3">
+                    <label asp-for="LoginDTO.Email" class="form-label"></label>
+                    <input asp-for="LoginDTO.Email" type="email" class="form-control" required />
+                    <span asp-validation-for="LoginDTO.Email" class="text-danger"></span>
+                    <div class="invalid-feedback">
+                        Please enter a valid email.
+                    </div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="LoginDTO.Password" class="form-label"></label>
+                    <input asp-for="LoginDTO.Password" type="password" class="form-control" required />
+                    <span asp-validation-for="LoginDTO.Password" class="text-danger"></span>
+                    <div class="invalid-feedback">
+                        Password is required.
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-primary w-100">Login</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Bootstrap form validation script
+    (function () {
+        'use strict';
+        window.addEventListener('load', function () {
+            var forms = document.getElementsByClassName('needs-validation');
+            Array.prototype.filter.call(forms, function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+</script>
+

@@ -1,0 +1,18 @@
+﻿@page "{id:int}"
+@model FrontEndRazor.Pages.TemplateGroups.ViewGroupModel
+@{
+    ViewData["Title"] = "View Group Details";
+}
+
+<h2>Group Details</h2>
+
+<div class="card mt-4">
+    <div class="card-body">
+        <h5 class="card-title">Group Name: @Model.TemplateGroupDTO.GroupName</h5>
+        <p class="card-text">
+            Created At: @Model.TemplateGroupDTO.CreatedAt.ToString("yyyy-MM-dd")<br />
+            Template Name: @Model.TemplateGroupDTO.TemplateName
+        </p>
+        <a asp-page="/TemplateGroups" asp-route-id="@Model.TemplateGroupDTO.TemplateID" class="btn btn-secondary">Back to Groups</a>
+    </div>
+</div>
